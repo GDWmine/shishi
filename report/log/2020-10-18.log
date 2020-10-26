@@ -1,0 +1,424 @@
+2020-10-18 08:00:00,705 - root - INFO - ############################### START ###############################
+2020-10-18 08:00:03,975 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.2682299613952637 seconds
+2020-10-18 08:00:06,091 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.116340398788452 seconds
+2020-10-18 08:00:08,660 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.5681347846984863 seconds
+2020-10-18 08:00:08,701 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04088926315307617 seconds
+2020-10-18 08:00:24,810 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.108663082122803 seconds
+2020-10-18 08:00:25,838 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.025926589965820312 seconds
+2020-10-18 08:00:25,927 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.0887596607208252 seconds
+2020-10-18 08:00:32,955 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.025402307510376 seconds
+2020-10-18 08:00:35,109 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1532437801361084 seconds
+2020-10-18 08:00:36,143 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0342328548431396 seconds,text:<2,295.84>
+2020-10-18 08:00:36,169 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.024933576583862305 seconds,text:<52,360>
+2020-10-18 08:00:36,193 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.02293872833251953 seconds,text:<361>
+2020-10-18 08:00:36,220 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.026927709579467773 seconds,text:<8>
+2020-10-18 08:00:36,243 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.022938251495361328 seconds,text:<5>
+2020-10-18 08:00:38,278 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.0355560779571533 seconds
+2020-10-18 08:00:40,423 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1442673206329346 seconds
+2020-10-18 08:00:41,456 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.033235788345337 seconds,text:<36,567.37>
+2020-10-18 08:00:41,477 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.019946575164794922 seconds,text:<784,277>
+2020-10-18 08:00:41,497 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.019946813583374023 seconds,text:<5,731>
+2020-10-18 08:00:41,517 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.019946813583374023 seconds,text:<111>
+2020-10-18 08:00:41,542 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.02493453025817871 seconds,text:<94>
+2020-10-18 08:00:43,577 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.035555124282837 seconds
+2020-10-18 08:00:45,627 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.049518585205078 seconds
+2020-10-18 08:00:46,661 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.0342340469360352 seconds
+2020-10-18 08:00:46,727 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.06582403182983398 seconds
+2020-10-18 08:00:52,113 - root - INFO - SUCCESS    Double click (440,187) Spend 0.38479137420654297 seconds
+2020-10-18 08:00:52,894 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.7809123992919922 seconds
+2020-10-18 08:00:53,230 - root - INFO - SUCCESS    Double click (40,0) Spend 0.33507657051086426 seconds
+2020-10-18 08:00:53,921 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~8:00,and sleep 0.5 seconds,input TAB key, Spend 0.6901824474334717 seconds
+2020-10-18 08:00:54,264 - root - INFO - SUCCESS    Double click (100,0) Spend 0.34305453300476074 seconds
+2020-10-18 08:00:54,958 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2,295.84,and sleep 0.5 seconds,input TAB key, Spend 0.6941709518432617 seconds
+2020-10-18 08:00:55,310 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3510322570800781 seconds
+2020-10-18 08:00:55,976 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 52,360,and sleep 0.5 seconds,input TAB key, Spend 0.6662185192108154 seconds
+2020-10-18 08:00:56,317 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3400595188140869 seconds
+2020-10-18 08:00:56,988 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 361,and sleep 0.5 seconds,input TAB key, Spend 0.6712045669555664 seconds
+2020-10-18 08:00:57,327 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3390936851501465 seconds
+2020-10-18 08:00:57,993 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 8,and sleep 0.5 seconds,input TAB key, Spend 0.6652495861053467 seconds
+2020-10-18 08:00:58,333 - root - INFO - SUCCESS    Double click (70,0) Spend 0.34006190299987793 seconds
+2020-10-18 08:00:58,995 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 5,and sleep 0.5 seconds,input TAB key, Spend 0.6622579097747803 seconds
+2020-10-18 08:00:59,335 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.34006190299987793 seconds
+2020-10-18 08:01:00,019 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 36,567.37,and sleep 0.5 seconds,input TAB key, Spend 0.6821694374084473 seconds
+2020-10-18 08:01:00,341 - root - INFO - SUCCESS    Double click (100,0) Spend 0.32213854789733887 seconds
+2020-10-18 08:01:01,025 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 784,277,and sleep 0.5 seconds,input TAB key, Spend 0.6822025775909424 seconds
+2020-10-18 08:01:01,361 - root - INFO - SUCCESS    Double click (90,0) Spend 0.33507442474365234 seconds
+2020-10-18 08:01:02,043 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 5,731,and sleep 0.5 seconds,input TAB key, Spend 0.6821465492248535 seconds
+2020-10-18 08:01:02,376 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3310849666595459 seconds
+2020-10-18 08:01:03,048 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 111,and sleep 0.5 seconds,input TAB key, Spend 0.6722033023834229 seconds
+2020-10-18 08:01:03,374 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3261423110961914 seconds
+2020-10-18 08:01:04,043 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 94,and sleep 0.5 seconds,input TAB key, Spend 0.6691949367523193 seconds
+2020-10-18 08:01:07,162 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1185154914855957 seconds
+2020-10-18 08:01:07,163 - root - INFO - ###############################  End  ###############################
+2020-10-18 08:01:11,889 - root - INFO - 发送邮件成功
+2020-10-18 10:00:00,650 - root - INFO - ############################### START ###############################
+2020-10-18 10:00:03,859 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.2094173431396484 seconds
+2020-10-18 10:00:05,972 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1113531589508057 seconds
+2020-10-18 10:00:07,893 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.9218604564666748 seconds
+2020-10-18 10:00:07,943 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04886817932128906 seconds
+2020-10-18 10:00:24,135 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.190441131591797 seconds
+2020-10-18 10:00:25,164 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.028758525848388672 seconds
+2020-10-18 10:00:25,256 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09175491333007812 seconds
+2020-10-18 10:00:32,283 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.0263969898223877 seconds
+2020-10-18 10:00:34,436 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1532440185546875 seconds
+2020-10-18 10:00:35,472 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0342252254486084 seconds,text:<10,170.43>
+2020-10-18 10:00:35,496 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.022914409637451172 seconds,text:<258,896>
+2020-10-18 10:00:35,522 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.025931596755981445 seconds,text:<1,388>
+2020-10-18 10:00:35,544 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.02194046974182129 seconds,text:<34>
+2020-10-18 10:00:35,568 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.023910999298095703 seconds,text:<29>
+2020-10-18 10:00:37,602 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.0335886478424072 seconds
+2020-10-18 10:00:39,748 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.145291566848755 seconds
+2020-10-18 10:00:40,781 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.0332074165344238 seconds,text:<54,183.87>
+2020-10-18 10:00:40,801 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.019947290420532227 seconds,text:<1,332,083>
+2020-10-18 10:00:40,822 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.01994633674621582 seconds,text:<8,340>
+2020-10-18 10:00:40,844 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.019946575164794922 seconds,text:<165>
+2020-10-18 10:00:40,867 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.02293848991394043 seconds,text:<138>
+2020-10-18 10:00:42,904 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.035557508468628 seconds
+2020-10-18 10:00:44,952 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.047523021697998 seconds
+2020-10-18 10:00:45,988 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.035231351852417 seconds
+2020-10-18 10:00:46,048 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.0608367919921875 seconds
+2020-10-18 10:00:51,426 - root - INFO - SUCCESS    Double click (440,187) Spend 0.37696242332458496 seconds
+2020-10-18 10:00:52,227 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.7998602390289307 seconds
+2020-10-18 10:00:52,569 - root - INFO - SUCCESS    Double click (40,0) Spend 0.3410983085632324 seconds
+2020-10-18 10:00:53,270 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~10:00,and sleep 0.5 seconds,input TAB key, Spend 0.7001564502716064 seconds
+2020-10-18 10:00:53,623 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3530573844909668 seconds
+2020-10-18 10:00:54,309 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 10,170.43,and sleep 0.5 seconds,input TAB key, Spend 0.6851239204406738 seconds
+2020-10-18 10:00:54,652 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3430826663970947 seconds
+2020-10-18 10:00:55,331 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 258,896,and sleep 0.5 seconds,input TAB key, Spend 0.6761610507965088 seconds
+2020-10-18 10:00:55,678 - root - INFO - SUCCESS    Double click (90,0) Spend 0.34705615043640137 seconds
+2020-10-18 10:00:56,350 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 1,388,and sleep 0.5 seconds,input TAB key, Spend 0.672189474105835 seconds
+2020-10-18 10:00:56,681 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3311455249786377 seconds
+2020-10-18 10:00:57,353 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 34,and sleep 0.5 seconds,input TAB key, Spend 0.6722021102905273 seconds
+2020-10-18 10:00:57,690 - root - INFO - SUCCESS    Double click (70,0) Spend 0.33507442474365234 seconds
+2020-10-18 10:00:58,351 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 29,and sleep 0.5 seconds,input TAB key, Spend 0.6602334976196289 seconds
+2020-10-18 10:00:58,684 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.33310699462890625 seconds
+2020-10-18 10:00:59,372 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 54,183.87,and sleep 0.5 seconds,input TAB key, Spend 0.6881322860717773 seconds
+2020-10-18 10:00:59,714 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3420853614807129 seconds
+2020-10-18 10:01:00,398 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 1,332,083,and sleep 0.5 seconds,input TAB key, Spend 0.6841695308685303 seconds
+2020-10-18 10:01:00,730 - root - INFO - SUCCESS    Double click (90,0) Spend 0.33214235305786133 seconds
+2020-10-18 10:01:01,414 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 8,340,and sleep 0.5 seconds,input TAB key, Spend 0.684166431427002 seconds
+2020-10-18 10:01:01,748 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3341083526611328 seconds
+2020-10-18 10:01:02,421 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 165,and sleep 0.5 seconds,input TAB key, Spend 0.6721737384796143 seconds
+2020-10-18 10:01:02,764 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3431074619293213 seconds
+2020-10-18 10:01:03,427 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 138,and sleep 0.5 seconds,input TAB key, Spend 0.6622395515441895 seconds
+2020-10-18 10:01:06,555 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.127315044403076 seconds
+2020-10-18 10:01:06,555 - root - INFO - ###############################  End  ###############################
+2020-10-18 10:01:12,188 - root - INFO - 发送邮件成功
+2020-10-18 12:00:00,696 - root - INFO - ############################### START ###############################
+2020-10-18 12:00:03,821 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.125612735748291 seconds
+2020-10-18 12:00:05,938 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.115342855453491 seconds
+2020-10-18 12:00:08,126 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.188148260116577 seconds
+2020-10-18 12:00:08,166 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.03989386558532715 seconds
+2020-10-18 12:00:24,445 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.279022932052612 seconds
+2020-10-18 12:00:25,471 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.02493000030517578 seconds
+2020-10-18 12:00:25,563 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.0907583236694336 seconds
+2020-10-18 12:00:32,592 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.0285730361938477 seconds
+2020-10-18 12:00:34,754 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1622161865234375 seconds
+2020-10-18 12:00:35,789 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0342340469360352 seconds,text:<14,548.11>
+2020-10-18 12:00:35,814 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.0249330997467041 seconds,text:<398,200>
+2020-10-18 12:00:35,837 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.022938966751098633 seconds,text:<1,983>
+2020-10-18 12:00:35,860 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.023935317993164062 seconds,text:<45>
+2020-10-18 12:00:35,885 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.023910045623779297 seconds,text:<39>
+2020-10-18 12:00:37,920 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.034586191177368 seconds
+2020-10-18 12:00:40,062 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1422431468963623 seconds
+2020-10-18 12:00:41,096 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.0312094688415527 seconds,text:<67,341.55>
+2020-10-18 12:00:41,115 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.019921302795410156 seconds,text:<1,726,620>
+2020-10-18 12:00:41,137 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.021941184997558594 seconds,text:<10,162>
+2020-10-18 12:00:41,161 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.02393651008605957 seconds,text:<216>
+2020-10-18 12:00:41,185 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.023935794830322266 seconds,text:<177>
+2020-10-18 12:00:43,221 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.0355560779571533 seconds
+2020-10-18 12:00:45,270 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.0495190620422363 seconds
+2020-10-18 12:00:46,307 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.035231351852417 seconds
+2020-10-18 12:00:46,369 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.06183481216430664 seconds
+2020-10-18 12:00:51,737 - root - INFO - SUCCESS    Double click (440,187) Spend 0.366990327835083 seconds
+2020-10-18 12:00:52,564 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.826789140701294 seconds
+2020-10-18 12:00:52,911 - root - INFO - SUCCESS    Double click (40,0) Spend 0.34707140922546387 seconds
+2020-10-18 12:00:53,598 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~12:00,and sleep 0.5 seconds,input TAB key, Spend 0.6871621608734131 seconds
+2020-10-18 12:00:53,949 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3510615825653076 seconds
+2020-10-18 12:00:54,624 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 14,548.11,and sleep 0.5 seconds,input TAB key, Spend 0.6741695404052734 seconds
+2020-10-18 12:00:54,948 - root - INFO - SUCCESS    Double click (100,0) Spend 0.32413339614868164 seconds
+2020-10-18 12:00:55,624 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 398,200,and sleep 0.5 seconds,input TAB key, Spend 0.675194263458252 seconds
+2020-10-18 12:00:55,956 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3311138153076172 seconds
+2020-10-18 12:00:56,629 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 1,983,and sleep 0.5 seconds,input TAB key, Spend 0.6722016334533691 seconds
+2020-10-18 12:00:56,943 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3141603469848633 seconds
+2020-10-18 12:00:57,605 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 45,and sleep 0.5 seconds,input TAB key, Spend 0.661200761795044 seconds
+2020-10-18 12:00:57,934 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3281219005584717 seconds
+2020-10-18 12:00:58,598 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 39,and sleep 0.5 seconds,input TAB key, Spend 0.6632261276245117 seconds
+2020-10-18 12:00:58,943 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.3450775146484375 seconds
+2020-10-18 12:00:59,617 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 67,341.55,and sleep 0.5 seconds,input TAB key, Spend 0.6741964817047119 seconds
+2020-10-18 12:00:59,936 - root - INFO - SUCCESS    Double click (100,0) Spend 0.31914687156677246 seconds
+2020-10-18 12:01:00,613 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 1,726,620,and sleep 0.5 seconds,input TAB key, Spend 0.6761908531188965 seconds
+2020-10-18 12:01:00,926 - root - INFO - SUCCESS    Double click (90,0) Spend 0.31313395500183105 seconds
+2020-10-18 12:01:01,597 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 10,162,and sleep 0.5 seconds,input TAB key, Spend 0.6702075004577637 seconds
+2020-10-18 12:01:01,938 - root - INFO - SUCCESS    Double click (160,0) Spend 0.34108829498291016 seconds
+2020-10-18 12:01:02,613 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 216,and sleep 0.5 seconds,input TAB key, Spend 0.675194501876831 seconds
+2020-10-18 12:01:02,950 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3371272087097168 seconds
+2020-10-18 12:01:03,624 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 177,and sleep 0.5 seconds,input TAB key, Spend 0.6731705665588379 seconds
+2020-10-18 12:01:07,187 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5623409748077393 seconds
+2020-10-18 12:01:07,188 - root - INFO - ###############################  End  ###############################
+2020-10-18 12:01:12,876 - root - INFO - 发送邮件成功
+2020-10-18 14:00:00,703 - root - INFO - ############################### START ###############################
+2020-10-18 14:00:03,839 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1345865726470947 seconds
+2020-10-18 14:00:05,954 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.115341901779175 seconds
+2020-10-18 14:00:09,486 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 3.5315561294555664 seconds
+2020-10-18 14:00:09,526 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.03889608383178711 seconds
+2020-10-18 14:00:25,952 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.425633668899536 seconds
+2020-10-18 14:00:26,978 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.02474808692932129 seconds
+2020-10-18 14:00:27,070 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.0907588005065918 seconds
+2020-10-18 14:00:34,098 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.0264015197753906 seconds
+2020-10-18 14:00:36,251 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.15324068069458 seconds
+2020-10-18 14:00:37,285 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0322396755218506 seconds,text:<18,471.37>
+2020-10-18 14:00:37,309 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.0249330997467041 seconds,text:<496,074>
+2020-10-18 14:00:37,337 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.025938749313354492 seconds,text:<2,531>
+2020-10-18 14:00:37,361 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.02293872833251953 seconds,text:<63>
+2020-10-18 14:00:37,385 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.02393651008605957 seconds,text:<55>
+2020-10-18 14:00:39,420 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.0335614681243896 seconds
+2020-10-18 14:00:41,569 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1492512226104736 seconds
+2020-10-18 14:00:42,601 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.0302448272705078 seconds,text:<76,135.89>
+2020-10-18 14:00:42,622 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.02094411849975586 seconds,text:<1,965,419>
+2020-10-18 14:00:42,643 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.020944595336914062 seconds,text:<11,300>
+2020-10-18 14:00:42,667 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.023939847946166992 seconds,text:<241>
+2020-10-18 14:00:42,691 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.02393174171447754 seconds,text:<199>
+2020-10-18 14:00:44,727 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.0345585346221924 seconds
+2020-10-18 14:00:46,776 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.048521041870117 seconds
+2020-10-18 14:00:47,812 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.0362286567687988 seconds
+2020-10-18 14:00:47,875 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.06083798408508301 seconds
+2020-10-18 14:00:53,239 - root - INFO - SUCCESS    Double click (440,187) Spend 0.3630239963531494 seconds
+2020-10-18 14:00:54,020 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.7809114456176758 seconds
+2020-10-18 14:00:54,376 - root - INFO - SUCCESS    Double click (40,0) Spend 0.35402464866638184 seconds
+2020-10-18 14:00:55,074 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~14:00,and sleep 0.5 seconds,input TAB key, Spend 0.6981711387634277 seconds
+2020-10-18 14:00:55,411 - root - INFO - SUCCESS    Double click (100,0) Spend 0.33510303497314453 seconds
+2020-10-18 14:00:56,101 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 18,471.37,and sleep 0.5 seconds,input TAB key, Spend 0.6901555061340332 seconds
+2020-10-18 14:00:56,427 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3261275291442871 seconds
+2020-10-18 14:00:57,104 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 496,074,and sleep 0.5 seconds,input TAB key, Spend 0.6751933097839355 seconds
+2020-10-18 14:00:57,444 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3401186466217041 seconds
+2020-10-18 14:00:58,124 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2,531,and sleep 0.5 seconds,input TAB key, Spend 0.6801517009735107 seconds
+2020-10-18 14:00:58,458 - root - INFO - SUCCESS    Double click (160,0) Spend 0.33310937881469727 seconds
+2020-10-18 14:00:59,128 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 63,and sleep 0.5 seconds,input TAB key, Spend 0.6702070236206055 seconds
+2020-10-18 14:00:59,460 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3321413993835449 seconds
+2020-10-18 14:01:00,130 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 55,and sleep 0.5 seconds,input TAB key, Spend 0.6692094802856445 seconds
+2020-10-18 14:01:00,470 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.3390638828277588 seconds
+2020-10-18 14:01:01,153 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 76,135.89,and sleep 0.5 seconds,input TAB key, Spend 0.6832010746002197 seconds
+2020-10-18 14:01:01,489 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3360717296600342 seconds
+2020-10-18 14:01:02,203 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 1,965,419,and sleep 0.5 seconds,input TAB key, Spend 0.7141218185424805 seconds
+2020-10-18 14:01:02,541 - root - INFO - SUCCESS    Double click (90,0) Spend 0.33806467056274414 seconds
+2020-10-18 14:01:03,226 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 11,300,and sleep 0.5 seconds,input TAB key, Spend 0.6841704845428467 seconds
+2020-10-18 14:01:03,563 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3370978832244873 seconds
+2020-10-18 14:01:04,236 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 241,and sleep 0.5 seconds,input TAB key, Spend 0.6712338924407959 seconds
+2020-10-18 14:01:04,581 - root - INFO - SUCCESS    Double click (70,0) Spend 0.34407997131347656 seconds
+2020-10-18 14:01:05,256 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 199,and sleep 0.5 seconds,input TAB key, Spend 0.6751654148101807 seconds
+2020-10-18 14:01:08,824 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5683231353759766 seconds
+2020-10-18 14:01:08,825 - root - INFO - ###############################  End  ###############################
+2020-10-18 14:01:13,764 - root - INFO - 发送邮件成功
+2020-10-18 16:00:00,674 - root - INFO - ############################### START ###############################
+2020-10-18 16:00:03,809 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.134589195251465 seconds
+2020-10-18 16:00:05,930 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1213266849517822 seconds
+2020-10-18 16:00:07,975 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.0445330142974854 seconds
+2020-10-18 16:00:08,030 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.052858591079711914 seconds
+2020-10-18 16:00:24,167 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.136584520339966 seconds
+2020-10-18 16:00:25,197 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.028921842575073242 seconds
+2020-10-18 16:00:25,288 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09075736999511719 seconds
+2020-10-18 16:00:32,317 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.027392864227295 seconds
+2020-10-18 16:00:34,476 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.15922474861145 seconds
+2020-10-18 16:00:35,505 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.028249740600586 seconds,text:<22,831.68>
+2020-10-18 16:00:35,530 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.024932384490966797 seconds,text:<603,869>
+2020-10-18 16:00:35,554 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.02293872833251953 seconds,text:<3,121>
+2020-10-18 16:00:35,579 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.0249326229095459 seconds,text:<71>
+2020-10-18 16:00:35,602 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.022938966751098633 seconds,text:<60>
+2020-10-18 16:00:37,635 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.0335850715637207 seconds
+2020-10-18 16:00:39,779 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1422488689422607 seconds
+2020-10-18 16:00:40,811 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.032238245010376 seconds,text:<80,794.94>
+2020-10-18 16:00:40,832 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.020944833755493164 seconds,text:<2,093,595>
+2020-10-18 16:00:40,852 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.01894974708557129 seconds,text:<12,091>
+2020-10-18 16:00:40,873 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.020943880081176758 seconds,text:<260>
+2020-10-18 16:00:40,897 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.023936033248901367 seconds,text:<216>
+2020-10-18 16:00:42,933 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.036553382873535 seconds
+2020-10-18 16:00:44,981 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.047524929046631 seconds
+2020-10-18 16:00:46,016 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.0352306365966797 seconds
+2020-10-18 16:00:46,080 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.06382966041564941 seconds
+2020-10-18 16:00:51,450 - root - INFO - SUCCESS    Double click (440,187) Spend 0.36900901794433594 seconds
+2020-10-18 16:00:52,206 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.7559792995452881 seconds
+2020-10-18 16:00:52,529 - root - INFO - SUCCESS    Double click (40,0) Spend 0.32213878631591797 seconds
+2020-10-18 16:00:53,229 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~16:00,and sleep 0.5 seconds,input TAB key, Spend 0.6981308460235596 seconds
+2020-10-18 16:00:53,569 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3400604724884033 seconds
+2020-10-18 16:00:54,267 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 22,831.68,and sleep 0.5 seconds,input TAB key, Spend 0.6981337070465088 seconds
+2020-10-18 16:00:54,608 - root - INFO - SUCCESS    Double click (100,0) Spend 0.34108829498291016 seconds
+2020-10-18 16:00:55,292 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 603,869,and sleep 0.5 seconds,input TAB key, Spend 0.6831984519958496 seconds
+2020-10-18 16:00:55,618 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3260984420776367 seconds
+2020-10-18 16:00:56,311 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 3,121,and sleep 0.5 seconds,input TAB key, Spend 0.6911764144897461 seconds
+2020-10-18 16:00:56,661 - root - INFO - SUCCESS    Double click (160,0) Spend 0.34903621673583984 seconds
+2020-10-18 16:00:57,346 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 71,and sleep 0.5 seconds,input TAB key, Spend 0.6851375102996826 seconds
+2020-10-18 16:00:57,700 - root - INFO - SUCCESS    Double click (70,0) Spend 0.35308361053466797 seconds
+2020-10-18 16:00:58,367 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 60,and sleep 0.5 seconds,input TAB key, Spend 0.6662178039550781 seconds
+2020-10-18 16:00:58,716 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.3480687141418457 seconds
+2020-10-18 16:00:59,405 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 80,794.94,and sleep 0.5 seconds,input TAB key, Spend 0.6891300678253174 seconds
+2020-10-18 16:00:59,739 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3341054916381836 seconds
+2020-10-18 16:01:00,414 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2,093,595,and sleep 0.5 seconds,input TAB key, Spend 0.6731996536254883 seconds
+2020-10-18 16:01:00,746 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3321084976196289 seconds
+2020-10-18 16:01:01,427 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 12,091,and sleep 0.5 seconds,input TAB key, Spend 0.6811864376068115 seconds
+2020-10-18 16:01:01,773 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3440520763397217 seconds
+2020-10-18 16:01:02,441 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 260,and sleep 0.5 seconds,input TAB key, Spend 0.6682164669036865 seconds
+2020-10-18 16:01:02,776 - root - INFO - SUCCESS    Double click (70,0) Spend 0.33507609367370605 seconds
+2020-10-18 16:01:03,438 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 216,and sleep 0.5 seconds,input TAB key, Spend 0.6612296104431152 seconds
+2020-10-18 16:01:06,567 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.128276824951172 seconds
+2020-10-18 16:01:06,567 - root - INFO - ###############################  End  ###############################
+2020-10-18 16:01:12,766 - root - INFO - 发送邮件成功
+2020-10-18 18:00:00,706 - root - INFO - ############################### START ###############################
+2020-10-18 18:00:03,840 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1325929164886475 seconds
+2020-10-18 18:00:05,953 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1133480072021484 seconds
+2020-10-18 18:00:07,803 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.8500525951385498 seconds
+2020-10-18 18:00:07,854 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.05086374282836914 seconds
+2020-10-18 18:00:23,957 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.102489471435547 seconds
+2020-10-18 18:00:24,983 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.02574610710144043 seconds
+2020-10-18 18:00:25,075 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09175467491149902 seconds
+2020-10-18 18:00:32,104 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.026423215866089 seconds
+2020-10-18 18:00:34,258 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1542394161224365 seconds
+2020-10-18 18:00:35,290 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0312421321868896 seconds,text:<26,628.92>
+2020-10-18 18:00:35,314 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.023908138275146484 seconds,text:<756,635>
+2020-10-18 18:00:35,338 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.023935556411743164 seconds,text:<3,846>
+2020-10-18 18:00:35,365 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.026927947998046875 seconds,text:<84>
+2020-10-18 18:00:35,390 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.023936033248901367 seconds,text:<69>
+2020-10-18 18:00:37,424 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.033531427383423 seconds
+2020-10-18 18:00:39,566 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1423075199127197 seconds
+2020-10-18 18:00:40,601 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.0342051982879639 seconds,text:<84,508.65>
+2020-10-18 18:00:40,624 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.021941423416137695 seconds,text:<2,206,171>
+2020-10-18 18:00:40,644 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.019946813583374023 seconds,text:<12,799>
+2020-10-18 18:00:40,664 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.019946575164794922 seconds,text:<268>
+2020-10-18 18:00:40,690 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.025930404663085938 seconds,text:<221>
+2020-10-18 18:00:42,726 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.0355567932128906 seconds
+2020-10-18 18:00:44,774 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.048521041870117 seconds
+2020-10-18 18:00:45,811 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.0372254848480225 seconds
+2020-10-18 18:00:45,872 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.059839487075805664 seconds
+2020-10-18 18:00:51,262 - root - INFO - SUCCESS    Double click (440,187) Spend 0.3889601230621338 seconds
+2020-10-18 18:00:52,028 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.7659807205200195 seconds
+2020-10-18 18:00:52,353 - root - INFO - SUCCESS    Double click (40,0) Spend 0.325101375579834 seconds
+2020-10-18 18:00:53,050 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~18:00,and sleep 0.5 seconds,input TAB key, Spend 0.6961379051208496 seconds
+2020-10-18 18:00:53,411 - root - INFO - SUCCESS    Double click (100,0) Spend 0.36003661155700684 seconds
+2020-10-18 18:00:54,114 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 26,628.92,and sleep 0.5 seconds,input TAB key, Spend 0.7031188011169434 seconds
+2020-10-18 18:00:54,465 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3500401973724365 seconds
+2020-10-18 18:00:55,156 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 756,635,and sleep 0.5 seconds,input TAB key, Spend 0.6901371479034424 seconds
+2020-10-18 18:00:55,491 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3341059684753418 seconds
+2020-10-18 18:00:56,167 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 3,846,and sleep 0.5 seconds,input TAB key, Spend 0.6761922836303711 seconds
+2020-10-18 18:00:56,519 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3510313034057617 seconds
+2020-10-18 18:00:57,176 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 84,and sleep 0.5 seconds,input TAB key, Spend 0.6552529335021973 seconds
+2020-10-18 18:00:57,508 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3321115970611572 seconds
+2020-10-18 18:00:58,172 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 69,and sleep 0.5 seconds,input TAB key, Spend 0.6641945838928223 seconds
+2020-10-18 18:00:58,510 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.3370985984802246 seconds
+2020-10-18 18:00:59,192 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 84,508.65,and sleep 0.5 seconds,input TAB key, Spend 0.680208683013916 seconds
+2020-10-18 18:00:59,523 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3311171531677246 seconds
+2020-10-18 18:01:00,193 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2,206,171,and sleep 0.5 seconds,input TAB key, Spend 0.6701767444610596 seconds
+2020-10-18 18:01:00,523 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3291192054748535 seconds
+2020-10-18 18:01:01,193 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 12,799,and sleep 0.5 seconds,input TAB key, Spend 0.6691827774047852 seconds
+2020-10-18 18:01:01,523 - root - INFO - SUCCESS    Double click (160,0) Spend 0.329118013381958 seconds
+2020-10-18 18:01:02,209 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 268,and sleep 0.5 seconds,input TAB key, Spend 0.6852107048034668 seconds
+2020-10-18 18:01:02,541 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3311021327972412 seconds
+2020-10-18 18:01:03,208 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 221,and sleep 0.5 seconds,input TAB key, Spend 0.6672213077545166 seconds
+2020-10-18 18:01:06,345 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1370959281921387 seconds
+2020-10-18 18:01:06,345 - root - INFO - ###############################  End  ###############################
+2020-10-18 18:01:11,145 - root - INFO - 发送邮件成功
+2020-10-18 20:00:00,689 - root - INFO - ############################### START ###############################
+2020-10-18 20:00:03,818 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1276357173919678 seconds
+2020-10-18 20:00:05,934 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.116340160369873 seconds
+2020-10-18 20:00:08,240 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.3058338165283203 seconds
+2020-10-18 20:00:08,279 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.03789877891540527 seconds
+2020-10-18 20:00:24,394 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.1146464347839355 seconds
+2020-10-18 20:00:25,419 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.0249330997467041 seconds
+2020-10-18 20:00:25,510 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.08978867530822754 seconds
+2020-10-18 20:00:32,537 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.0254199504852295 seconds
+2020-10-18 20:00:34,695 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.158228874206543 seconds
+2020-10-18 20:00:35,728 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0322391986846924 seconds,text:<32,176.07>
+2020-10-18 20:00:35,756 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.02792644500732422 seconds,text:<984,109>
+2020-10-18 20:00:35,779 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.021939992904663086 seconds,text:<5,104>
+2020-10-18 20:00:35,805 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.02595996856689453 seconds,text:<102>
+2020-10-18 20:00:35,828 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.022909879684448242 seconds,text:<83>
+2020-10-18 20:00:37,864 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.0355563163757324 seconds
+2020-10-18 20:00:40,008 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1442670822143555 seconds
+2020-10-18 20:00:41,043 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.0352301597595215 seconds,text:<92,795.76>
+2020-10-18 20:00:41,065 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.020943641662597656 seconds,text:<2,437,007>
+2020-10-18 20:00:41,087 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.021942138671875 seconds,text:<14,491>
+2020-10-18 20:00:41,110 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.022938251495361328 seconds,text:<292>
+2020-10-18 20:00:41,138 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.02795100212097168 seconds,text:<244>
+2020-10-18 20:00:43,172 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.0335593223571777 seconds
+2020-10-18 20:00:45,220 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.0474987030029297 seconds
+2020-10-18 20:00:46,256 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.035228967666626 seconds
+2020-10-18 20:00:46,319 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.061806678771972656 seconds
+2020-10-18 20:00:51,734 - root - INFO - SUCCESS    Double click (440,187) Spend 0.4147312641143799 seconds
+2020-10-18 20:00:52,574 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.8397233486175537 seconds
+2020-10-18 20:00:52,922 - root - INFO - SUCCESS    Double click (40,0) Spend 0.34707212448120117 seconds
+2020-10-18 20:00:53,621 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~20:00,and sleep 0.5 seconds,input TAB key, Spend 0.6991581916809082 seconds
+2020-10-18 20:00:53,979 - root - INFO - SUCCESS    Double click (100,0) Spend 0.3580143451690674 seconds
+2020-10-18 20:00:54,667 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 32,176.07,and sleep 0.5 seconds,input TAB key, Spend 0.6861357688903809 seconds
+2020-10-18 20:00:54,998 - root - INFO - SUCCESS    Double click (100,0) Spend 0.33014535903930664 seconds
+2020-10-18 20:00:55,679 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 984,109,and sleep 0.5 seconds,input TAB key, Spend 0.6811561584472656 seconds
+2020-10-18 20:00:56,015 - root - INFO - SUCCESS    Double click (90,0) Spend 0.33510279655456543 seconds
+2020-10-18 20:00:56,694 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 5,104,and sleep 0.5 seconds,input TAB key, Spend 0.6791856288909912 seconds
+2020-10-18 20:00:57,030 - root - INFO - SUCCESS    Double click (160,0) Spend 0.33609652519226074 seconds
+2020-10-18 20:00:57,704 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 102,and sleep 0.5 seconds,input TAB key, Spend 0.674170970916748 seconds
+2020-10-18 20:00:58,045 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3400900363922119 seconds
+2020-10-18 20:00:58,714 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 83,and sleep 0.5 seconds,input TAB key, Spend 0.66921067237854 seconds
+2020-10-18 20:00:59,046 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.3310859203338623 seconds
+2020-10-18 20:00:59,753 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 92,795.76,and sleep 0.5 seconds,input TAB key, Spend 0.7061107158660889 seconds
+2020-10-18 20:01:00,080 - root - INFO - SUCCESS    Double click (100,0) Spend 0.32709813117980957 seconds
+2020-10-18 20:01:00,769 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2,437,007,and sleep 0.5 seconds,input TAB key, Spend 0.6881582736968994 seconds
+2020-10-18 20:01:01,104 - root - INFO - SUCCESS    Double click (90,0) Spend 0.3340773582458496 seconds
+2020-10-18 20:01:01,790 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 14,491,and sleep 0.5 seconds,input TAB key, Spend 0.6851952075958252 seconds
+2020-10-18 20:01:02,150 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3580155372619629 seconds
+2020-10-18 20:01:02,840 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 292,and sleep 0.5 seconds,input TAB key, Spend 0.6901533603668213 seconds
+2020-10-18 20:01:03,189 - root - INFO - SUCCESS    Double click (70,0) Spend 0.348069429397583 seconds
+2020-10-18 20:01:03,856 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 244,and sleep 0.5 seconds,input TAB key, Spend 0.6672153472900391 seconds
+2020-10-18 20:01:07,409 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.552178144454956 seconds
+2020-10-18 20:01:07,409 - root - INFO - ###############################  End  ###############################
+2020-10-18 20:01:13,200 - root - INFO - 发送邮件成功
+2020-10-18 22:00:00,674 - root - INFO - ############################### START ###############################
+2020-10-18 22:00:03,791 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1166372299194336 seconds
+2020-10-18 22:00:05,908 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.116340398788452 seconds
+2020-10-18 22:00:07,642 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.7343623638153076 seconds
+2020-10-18 22:00:07,685 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04188823699951172 seconds
+2020-10-18 22:00:24,088 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.402876615524292 seconds
+2020-10-18 22:00:25,114 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.02574610710144043 seconds
+2020-10-18 22:00:25,204 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.08873438835144043 seconds
+2020-10-18 22:00:32,230 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567682/report/analytic?')> open a new window and swich into, Spend 2.025578737258911 seconds
+2020-10-18 22:00:34,384 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1522445678710938 seconds
+2020-10-18 22:00:35,418 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 1.0342049598693848 seconds,text:<38,986.75>
+2020-10-18 22:00:35,443 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.023963451385498047 seconds,text:<1,291,057>
+2020-10-18 22:00:35,465 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[4]/div>, Spend 0.020915985107421875 seconds,text:<6,838>
+2020-10-18 22:00:35,488 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.022910594940185547 seconds,text:<117>
+2020-10-18 22:00:35,511 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[10]/div>, Spend 0.020944833755493164 seconds,text:<94>
+2020-10-18 22:00:37,545 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/17567678/report/analytic?')> open a new window and swich into, Spend 2.0335328578948975 seconds
+2020-10-18 22:00:39,679 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.1332952976226807 seconds
+2020-10-18 22:00:40,709 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.0302443504333496 seconds,text:<98,998.77>
+2020-10-18 22:00:40,730 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[7]/div>, Spend 0.019946575164794922 seconds,text:<2,629,310>
+2020-10-18 22:00:40,751 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[8]/div>, Spend 0.020914554595947266 seconds,text:<15,901>
+2020-10-18 22:00:40,773 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[3]/div>, Spend 0.021941423416137695 seconds,text:<312>
+2020-10-18 22:00:40,798 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[5]/div>, Spend 0.023962736129760742 seconds,text:<259>
+2020-10-18 22:00:42,831 - root - INFO - SUCCESS    From js: <window.open('https://docs.qq.com/sheet/DU1F6UVF4a2J4ZkdI?tab=bb08j2')> open a new window and swich into, Spend 2.03353214263916 seconds
+2020-10-18 22:00:44,905 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="blankpage-button-pc"]>, Spend 2.0724570751190186 seconds
+2020-10-18 22:00:45,945 - root - INFO - SUCCESS    Switch to frame element: <id->login_frame>, Spend 1.0402181148529053 seconds
+2020-10-18 22:00:46,004 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.058843135833740234 seconds
+2020-10-18 22:00:51,411 - root - INFO - SUCCESS    Double click (440,187) Spend 0.4067540168762207 seconds
+2020-10-18 22:00:52,185 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2020-10-18,and sleep 0.5 seconds,input TAB key, Spend 0.7738990783691406 seconds
+2020-10-18 22:00:52,539 - root - INFO - SUCCESS    Double click (40,0) Spend 0.3530557155609131 seconds
+2020-10-18 22:00:53,225 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 00:00~22:00,and sleep 0.5 seconds,input TAB key, Spend 0.6851990222930908 seconds
+2020-10-18 22:00:53,568 - root - INFO - SUCCESS    Double click (100,0) Spend 0.34308385848999023 seconds
+2020-10-18 22:00:54,260 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 38,986.75,and sleep 0.5 seconds,input TAB key, Spend 0.6901242733001709 seconds
+2020-10-18 22:00:54,596 - root - INFO - SUCCESS    Double click (100,0) Spend 0.336101770401001 seconds
+2020-10-18 22:00:55,273 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 1,291,057,and sleep 0.5 seconds,input TAB key, Spend 0.6751611232757568 seconds
+2020-10-18 22:00:55,606 - root - INFO - SUCCESS    Double click (90,0) Spend 0.33310770988464355 seconds
+2020-10-18 22:00:56,278 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 6,838,and sleep 0.5 seconds,input TAB key, Spend 0.6712050437927246 seconds
+2020-10-18 22:00:56,608 - root - INFO - SUCCESS    Double click (160,0) Spend 0.33011794090270996 seconds
+2020-10-18 22:00:57,286 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 117,and sleep 0.5 seconds,input TAB key, Spend 0.678185224533081 seconds
+2020-10-18 22:00:57,618 - root - INFO - SUCCESS    Double click (70,0) Spend 0.3311433792114258 seconds
+2020-10-18 22:00:58,288 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 94,and sleep 0.5 seconds,input TAB key, Spend 0.6701791286468506 seconds
+2020-10-18 22:00:58,626 - root - INFO - SUCCESS    Double click (-440,20) Spend 0.3370983600616455 seconds
+2020-10-18 22:00:59,314 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 98,998.77,and sleep 0.5 seconds,input TAB key, Spend 0.6881592273712158 seconds
+2020-10-18 22:00:59,661 - root - INFO - SUCCESS    Double click (100,0) Spend 0.34607458114624023 seconds
+2020-10-18 22:01:00,345 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 2,629,310,and sleep 0.5 seconds,input TAB key, Spend 0.6841683387756348 seconds
+2020-10-18 22:01:00,681 - root - INFO - SUCCESS    Double click (90,0) Spend 0.33507513999938965 seconds
+2020-10-18 22:01:01,360 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 15,901,and sleep 0.5 seconds,input TAB key, Spend 0.6781864166259766 seconds
+2020-10-18 22:01:01,692 - root - INFO - SUCCESS    Double click (160,0) Spend 0.3321113586425781 seconds
+2020-10-18 22:01:02,352 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 312,and sleep 0.5 seconds,input TAB key, Spend 0.6602339744567871 seconds
+2020-10-18 22:01:02,685 - root - INFO - SUCCESS    Double click (70,0) Spend 0.33310961723327637 seconds
+2020-10-18 22:01:03,359 - root - INFO - SUCCESS    Element <xpath->//*[@id="alloy-rich-text-editor"]/span> type content: 259,and sleep 0.5 seconds,input TAB key, Spend 0.6731991767883301 seconds
+2020-10-18 22:01:07,398 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.038050889968872 seconds
+2020-10-18 22:01:07,398 - root - INFO - ###############################  End  ###############################
+2020-10-18 22:01:13,078 - root - INFO - 发送邮件成功

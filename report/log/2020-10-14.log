@@ -1,0 +1,40 @@
+2020-10-14 16:26:18,523 - root - INFO - ############################### START ###############################
+2020-10-14 16:26:21,866 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.3420655727386475 seconds
+2020-10-14 16:26:24,012 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1462619304656982 seconds
+2020-10-14 16:26:26,234 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.221066474914551 seconds
+2020-10-14 16:26:26,234 - root - INFO - ###############################  End  ###############################
+2020-10-14 16:38:35,534 - root - INFO - ############################### START ###############################
+2020-10-14 16:38:38,873 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.3390989303588867 seconds
+2020-10-14 16:38:41,001 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1272876262664795 seconds
+2020-10-14 16:38:44,035 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0338926315307617 seconds
+2020-10-14 16:38:44,035 - root - INFO - ###############################  End  ###############################
+2020-10-14 16:46:28,531 - root - INFO - ############################### START ###############################
+2020-10-14 16:46:31,723 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.191450834274292 seconds
+2020-10-14 16:46:33,845 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1213300228118896 seconds
+2020-10-14 16:46:36,073 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.2280433177948 seconds
+2020-10-14 16:46:36,120 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04587674140930176 seconds
+2020-10-14 16:46:52,403 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.283017873764038 seconds
+2020-10-14 16:46:53,437 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.03291201591491699 seconds
+2020-10-14 16:46:53,554 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.11768746376037598 seconds
+2020-10-14 16:46:56,611 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.055832862854004 seconds
+2020-10-14 16:46:56,611 - root - INFO - ###############################  End  ###############################
+2020-10-14 17:03:17,616 - root - INFO - ############################### START ###############################
+2020-10-14 17:03:21,040 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.422849416732788 seconds
+2020-10-14 17:03:23,185 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1432700157165527 seconds
+2020-10-14 17:03:25,124 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.938817024230957 seconds
+2020-10-14 17:03:25,168 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04388260841369629 seconds
+2020-10-14 17:03:41,342 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.172495126724243 seconds
+2020-10-14 17:03:42,371 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.027924299240112305 seconds
+2020-10-14 17:03:42,467 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09574341773986816 seconds
+2020-10-14 17:03:44,595 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.126293659210205 seconds
+2020-10-14 17:03:44,595 - root - INFO - ###############################  End  ###############################
+2020-10-14 17:04:44,575 - root - INFO - ############################### START ###############################
+2020-10-14 17:04:47,732 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1565589904785156 seconds
+2020-10-14 17:04:49,857 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.125319480895996 seconds
+2020-10-14 17:04:51,878 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.0205981731414795 seconds
+2020-10-14 17:04:51,938 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.059839725494384766 seconds
+2020-10-14 17:05:08,298 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.358001708984375 seconds
+2020-10-14 17:05:09,329 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.029732942581176758 seconds
+2020-10-14 17:05:09,436 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.10671567916870117 seconds
+2020-10-14 17:05:16,540 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1033504009246826 seconds
+2020-10-14 17:05:16,540 - root - INFO - ###############################  End  ###############################

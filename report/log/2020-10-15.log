@@ -1,0 +1,126 @@
+2020-10-15 09:18:55,515 - root - INFO - ############################### START ###############################
+2020-10-15 09:18:58,658 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.14359450340271 seconds
+2020-10-15 09:19:00,785 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1263153553009033 seconds
+2020-10-15 09:19:08,238 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 7.452075481414795 seconds
+2020-10-15 09:19:08,277 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.03892230987548828 seconds
+2020-10-15 09:19:26,495 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 8.216920852661133 seconds
+2020-10-15 09:19:27,527 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.03191328048706055 seconds
+2020-10-15 09:19:27,624 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09574437141418457 seconds
+2020-10-15 09:19:34,740 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.115525960922241 seconds
+2020-10-15 09:19:34,741 - root - INFO - ###############################  End  ###############################
+2020-10-15 09:23:15,651 - root - INFO - ############################### START ###############################
+2020-10-15 09:23:18,850 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.198448419570923 seconds
+2020-10-15 09:23:20,973 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1213278770446777 seconds
+2020-10-15 09:23:23,315 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.3417410850524902 seconds
+2020-10-15 09:23:23,354 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.03989100456237793 seconds
+2020-10-15 09:23:39,577 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.222364187240601 seconds
+2020-10-15 09:23:40,638 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.059839487075805664 seconds
+2020-10-15 09:23:40,786 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.14760541915893555 seconds
+2020-10-15 09:23:48,338 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.549995183944702 seconds
+2020-10-15 09:23:48,338 - root - INFO - ###############################  End  ###############################
+2020-10-15 09:23:56,349 - root - INFO - ############################### START ###############################
+2020-10-15 09:23:59,524 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1745121479034424 seconds
+2020-10-15 09:24:01,646 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1223530769348145 seconds
+2020-10-15 09:24:03,956 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.3097972869873047 seconds
+2020-10-15 09:24:03,998 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04188704490661621 seconds
+2020-10-15 09:24:20,501 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.502614498138428 seconds
+2020-10-15 09:24:21,528 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.025930166244506836 seconds
+2020-10-15 09:24:21,634 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.1047213077545166 seconds
+2020-10-15 09:24:28,737 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1025681495666504 seconds
+2020-10-15 09:24:28,738 - root - INFO - ###############################  End  ###############################
+2020-10-15 09:26:32,387 - root - INFO - ############################### START ###############################
+2020-10-15 09:26:35,576 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.189471960067749 seconds
+2020-10-15 09:26:37,706 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1303048133850098 seconds
+2020-10-15 09:26:39,553 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.845066785812378 seconds
+2020-10-15 09:26:39,607 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.05485391616821289 seconds
+2020-10-15 09:26:55,761 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.152547121047974 seconds
+2020-10-15 09:26:56,790 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.028918981552124023 seconds
+2020-10-15 09:26:56,885 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09474635124206543 seconds
+2020-10-15 09:27:05,027 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1416003704071045 seconds
+2020-10-15 09:27:05,028 - root - INFO - ###############################  End  ###############################
+2020-10-15 09:28:16,751 - root - INFO - ############################### START ###############################
+2020-10-15 09:28:20,132 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.38096022605896 seconds
+2020-10-15 09:28:22,277 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.144266366958618 seconds
+2020-10-15 09:28:24,148 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.8690016269683838 seconds
+2020-10-15 09:28:24,202 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.05385565757751465 seconds
+2020-10-15 09:28:40,435 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.233334541320801 seconds
+2020-10-15 09:28:41,467 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.03091716766357422 seconds
+2020-10-15 09:28:41,561 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09474754333496094 seconds
+2020-10-15 09:28:49,130 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.562326431274414 seconds
+2020-10-15 09:28:49,131 - root - INFO - ###############################  End  ###############################
+2020-10-15 09:31:54,912 - root - INFO - ############################### START ###############################
+2020-10-15 09:31:58,220 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.3071579933166504 seconds
+2020-10-15 09:32:00,342 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1223256587982178 seconds
+2020-10-15 09:32:02,161 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 1.8191375732421875 seconds
+2020-10-15 09:32:02,207 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04388165473937988 seconds
+2020-10-15 09:32:18,792 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.584394931793213 seconds
+2020-10-15 09:32:19,820 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.026927947998046875 seconds
+2020-10-15 09:32:19,919 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09873652458190918 seconds
+2020-10-15 09:32:24,925 - root - INFO - FAIL    Click js: <https://ad.qq.com/atlas/17567682/report/analytic?> open a new window and swich into, Spend 0.00598454475402832 seconds
+2020-10-15 09:32:27,987 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0608456134796143 seconds
+2020-10-15 09:32:27,987 - root - INFO - ###############################  End  ###############################
+2020-10-15 09:57:11,684 - root - INFO - ############################### START ###############################
+2020-10-15 09:57:15,125 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.4408018589019775 seconds
+2020-10-15 09:57:17,271 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.146261692047119 seconds
+2020-10-15 09:57:20,441 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 3.169527292251587 seconds
+2020-10-15 09:57:20,503 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.059839487075805664 seconds
+2020-10-15 09:57:36,941 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.437784910202026 seconds
+2020-10-15 09:57:37,975 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.03173422813415527 seconds
+2020-10-15 09:57:38,081 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.10571694374084473 seconds
+2020-10-15 09:57:43,089 - root - INFO - FAIL    From js: <https://ad.qq.com/atlas/17567682/report/analytic?> open a new window and swich into, Spend 0.00679469108581543 seconds
+2020-10-15 09:57:45,644 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.554326295852661 seconds
+2020-10-15 09:57:45,645 - root - INFO - ###############################  End  ###############################
+2020-10-15 10:10:06,936 - root - INFO - ############################### START ###############################
+2020-10-15 10:10:10,134 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1924636363983154 seconds
+2020-10-15 10:10:12,252 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.116342782974243 seconds
+2020-10-15 10:11:17,476 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 65.22462677955627 seconds
+2020-10-15 10:11:17,519 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04188823699951172 seconds
+2020-10-15 10:12:01,206 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 33.68577980995178 seconds
+2020-10-15 10:12:02,234 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.0267486572265625 seconds
+2020-10-15 10:12:02,331 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09574389457702637 seconds
+2020-10-15 10:12:07,332 - root - INFO - FAIL    From js: <https://ad.qq.com/atlas/17567682/report/analytic?> open a new window and swich into, Spend 0.0 seconds
+2020-10-15 10:12:09,903 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.571098566055298 seconds
+2020-10-15 10:12:09,903 - root - INFO - ###############################  End  ###############################
+2020-10-15 10:20:45,266 - root - INFO - ############################### START ###############################
+2020-10-15 10:20:48,434 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.1675326824188232 seconds
+2020-10-15 10:20:50,557 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.123323678970337 seconds
+2020-10-15 10:20:52,997 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.439478635787964 seconds
+2020-10-15 10:20:53,041 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04487872123718262 seconds
+2020-10-15 10:21:09,798 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.754941463470459 seconds
+2020-10-15 10:21:10,826 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.027918338775634766 seconds
+2020-10-15 10:21:10,921 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09371805191040039 seconds
+2020-10-15 10:21:15,929 - root - INFO - FAIL    From js: <https://ad.qq.com/atlas/17567682/report/analytic?> open a new window and swich into, Spend 0.007976055145263672 seconds
+2020-10-15 10:21:18,085 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1544275283813477 seconds
+2020-10-15 10:21:18,086 - root - INFO - ###############################  End  ###############################
+2020-10-15 10:23:28,257 - root - INFO - ############################### START ###############################
+2020-10-15 10:23:31,451 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.192462921142578 seconds
+2020-10-15 10:23:33,571 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.1203317642211914 seconds
+2020-10-15 10:23:36,200 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.6279752254486084 seconds
+2020-10-15 10:23:36,245 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04388308525085449 seconds
+2020-10-15 10:23:52,603 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.357999324798584 seconds
+2020-10-15 10:23:53,635 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.029919862747192383 seconds
+2020-10-15 10:23:53,729 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.09474706649780273 seconds
+2020-10-15 10:23:58,737 - root - INFO - FAIL    From js: <https://ad.qq.com/atlas/17567682/report/analytic?> open a new window and swich into, Spend 0.006799936294555664 seconds
+2020-10-15 10:24:00,914 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.176361322402954 seconds
+2020-10-15 10:24:00,915 - root - INFO - ###############################  End  ###############################
+2020-10-15 10:26:42,535 - root - INFO - ############################### START ###############################
+2020-10-15 10:26:45,776 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.241302967071533 seconds
+2020-10-15 10:26:47,926 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.14825701713562 seconds
+2020-10-15 10:26:50,127 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 2.200118064880371 seconds
+2020-10-15 10:26:50,175 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.046875 seconds
+2020-10-15 10:27:06,311 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.134598255157471 seconds
+2020-10-15 10:27:07,341 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.02991509437561035 seconds
+2020-10-15 10:27:07,440 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.0967409610748291 seconds
+2020-10-15 10:27:14,574 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1342904567718506 seconds
+2020-10-15 10:27:14,574 - root - INFO - ###############################  End  ###############################
+2020-10-15 10:28:00,589 - root - INFO - ############################### START ###############################
+2020-10-15 10:28:03,923 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.3320915699005127 seconds
+2020-10-15 10:28:06,056 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.133296012878418 seconds
+2020-10-15 10:28:17,729 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 11.670801401138306 seconds
+2020-10-15 10:28:17,783 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.054852962493896484 seconds
+2020-10-15 10:28:34,003 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 6.219334363937378 seconds
+2020-10-15 10:28:35,032 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.027741432189941406 seconds
+2020-10-15 10:28:35,135 - root - INFO - SUCCESS    Clicked element: <id->img_out_1456904332>, Spend 0.10272526741027832 seconds
+2020-10-15 10:28:40,138 - root - INFO - FAIL    Click element: <https://ad.qq.com/atlas/17567682/report/analytic?> open a new window and swich into, Spend 0.0008149147033691406 seconds
+2020-10-15 10:28:43,175 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0368812084198 seconds
+2020-10-15 10:28:43,176 - root - INFO - ###############################  End  ###############################
