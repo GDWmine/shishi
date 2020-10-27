@@ -20,6 +20,9 @@ class TXguanggaologinPage(basepage.Page):
     def click_login_(self):
         self.dr.click('id->img_out_{0}'.format(TXuser))
         time.sleep(5)
+    def click_login_1456(self):
+        self.dr.click('id->img_out_1456904332')
+        time.sleep(5)
 
 
 

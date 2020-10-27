@@ -1,7 +1,7 @@
 #coding=utf-8
 
 from public.common import mytest
-from public.pages.shishiPage import TXguanggaologin,TX682,TX678,NNshihi,TX302,TX303
+from public.pages.shishiPage import TXguanggaologin,TX304,TX306,NNshihi,TX302,TX303,TX678,TX682
 import time
 from public.common.publicfunction import get_img
 from config import globalparam
@@ -9,10 +9,10 @@ from config import globalparam
 imageName = globalparam.image_Name
 
 class test_nn_shishi(mytest.MyTest):
-    """楠楠实时"""
+    """实时"""
 
     def _TXguanggaologin(self):
-        """封装广告页面QQ快捷登录"""
+        """封装广告页面QQ1456快捷登录"""
         TXguanggaologinPage = TXguanggaologin.TXguanggaologinPage(self.dr)
         TXguanggaologinPage.into_TX_page()
         TXguanggaologinPage.click_login_button()
@@ -83,19 +83,52 @@ class test_nn_shishi(mytest.MyTest):
         global gb_xiadan303
         gb_xiadan303= TXguanggao303Page.get_xiadan303()
 
+    def _TX304(self):
+        """封装打开304账户并获取数据"""
+        TXguanggao304Page = TX304.TX304Page(self.dr)
+        TXguanggao304Page.open304()
+        TXguanggao304Page.click_button()
+        global gb_huafei304
+        # time.sleep(1000)
+        gb_huafei304 = TXguanggao304Page.get_huafei304()
+        global gb_baoguang304
+        gb_baoguang304 = TXguanggao304Page.get_baoguang304()
+        global gb_dianji304
+        gb_dianji304 = TXguanggao304Page.get_dianji304()
+        global gb_zhuce304
+        gb_zhuce304 = TXguanggao304Page.get_zhuce304()
+        global gb_xiadan304
+        gb_xiadan304 = TXguanggao304Page.get_xiadan304()
+
+    def _TX306(self):
+        """封装打开306账户并获取数据"""
+        TXguanggao306Page = TX306.TX306Page(self.dr)
+        TXguanggao306Page.open306()
+        TXguanggao306Page.click_button()
+        global gb_huafei306
+        # time.sleep(1000)
+        gb_huafei306 = TXguanggao306Page.get_huafei306()
+        global gb_baoguang306
+        gb_baoguang306 = TXguanggao306Page.get_baoguang306()
+        global gb_dianji306
+        gb_dianji306 = TXguanggao306Page.get_dianji306()
+        global gb_zhuce306
+        gb_zhuce306 = TXguanggao306Page.get_zhuce306()
+        global gb_xiadan306
+        gb_xiadan306 = TXguanggao306Page.get_xiadan306()
+
     def _NNshihsiPage(self):
         riqi = time.strftime('%Y-%m-%d',time.localtime(time.time()))
-        # shijianduan = "00:00~{}:00".format(time.localtime().tm_hour)
-        if int(time.localtime().tm_min) >= 30:
-            shijianduan = "{}:30".format(time.localtime().tm_hour)
+        if time.localtime().tm_min > 25:
+            shijianduan = "00:00~{}:30".format(time.localtime().tm_hour)
         else:
-            shijianduan = "{}:00".format(time.localtime().tm_hour)
+            shijianduan = "00:00~{}:00".format(time.localtime().tm_hour)
         NNshihsiPage = NNshihi.NNshihsiPage(self.dr)
-        # 302/303账户
-        NNshihsiPage.opennewNNshihsiPage()
+        NNshihsiPage.openNNshihsiPage()
         NNshihsiPage.click_login_button()
         NNshihsiPage.switch_to_qqlogin_frame()
         NNshihsiPage.click_login_()
+
         """
         682/678账户
         
@@ -114,7 +147,6 @@ class test_nn_shishi(mytest.MyTest):
         NNshihsiPage.write_number(160,0,gb_zhuce678)
         NNshihsiPage.write_number(70,0,gb_xiadan678)
         time.sleep(5)
-        """
         # 302账户
         NNshihsiPage.write_number(60,320,riqi)
         NNshihsiPage.write_number(90,0,shijianduan)
@@ -129,15 +161,27 @@ class test_nn_shishi(mytest.MyTest):
         NNshihsiPage.write_number(90,0,gb_xiadan303)
         NNshihsiPage.write_number(90,0,gb_baoguang303)
         NNshihsiPage.write_number(90,0,gb_dianji303)
+        """
+        # 304账户
+        NNshihsiPage.write_number(60,320,riqi)
+        NNshihsiPage.write_number(90,0,shijianduan)
+        NNshihsiPage.write_number(90,0,gb_huafei304)
+        NNshihsiPage.write_number(90,0,gb_zhuce304)
+        NNshihsiPage.write_number(90,0,gb_xiadan304)
+        NNshihsiPage.write_number(90,0,gb_baoguang304)
+        NNshihsiPage.write_number(90,0,gb_dianji304)
+        # 306账户
+        NNshihsiPage.write_number(-360,30,gb_huafei306)
+        NNshihsiPage.write_number(90,0,gb_zhuce306)
+        NNshihsiPage.write_number(90,0,gb_xiadan306)
+        NNshihsiPage.write_number(90,0,gb_baoguang306)
+        NNshihsiPage.write_number(90,0,gb_dianji306)
 
         get_img(NNshihsiPage.dr,imageName)
         time.sleep(1)
 
-
     def test_01_open_TXguanggaologinPage(self):
         self._TXguanggaologin()
-        # self._TX682()
-        # self._TX678()
-        self._TX302()
-        self._TX303()
+        self._TX304()
+        self._TX306()
         self._NNshihsiPage()

@@ -24,6 +24,9 @@ class NNshihsiPage(basepage.Page):
     def click_login_(self):
         self.dr.click('id->img_out_{0}'.format(EXuser))
         time.sleep(10)
+    def click_login_1456(self):
+        self.dr.click('id->img_out_1456904332')
+        time.sleep(10)
     def write_number(self,x,y,values):
         self.dr.move_by_offset_double_click(x,y)
         time.sleep(2)

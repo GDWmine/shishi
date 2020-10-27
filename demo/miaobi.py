@@ -38,8 +38,8 @@ while(d(text="领取奖励").exists):
 #跳支付宝领喵币
 d(text="去支付宝领更多喵币").click()
 sleep(10)
-if not d.wait_activity("com.alipay.mobile.nebulax.integration.mpaas.activity.NebulaActivityMain",timeout=10):
-    raise Exception("未启动到支付宝领喵币界面")
+# if not d.wait_activity("com.alipay.mobile.nebulax.integration.mpaas.activity.NebulaActivityMain",timeout=10):
+#     raise Exception("未启动到支付宝领喵币界面")
 if d(text="好的，我知道了").exists:
     d(text="好的，我知道了").click()
     sleep(3)

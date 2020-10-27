@@ -1,0 +1,23 @@
+2020-10-27 17:15:53,314 - root - INFO - ############################### START ###############################
+2020-10-27 17:15:56,584 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.27 seconds
+2020-10-27 17:15:58,708 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.12 seconds
+2020-10-27 17:16:02,683 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 3.98 seconds
+2020-10-27 17:16:02,728 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.04 seconds
+2020-10-27 17:16:12,766 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 0.04 seconds
+2020-10-27 17:16:13,811 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.04 seconds
+2020-10-27 17:16:13,977 - root - INFO - SUCCESS    Clicked element: <id->img_out_3109501868>, Spend 0.16 seconds
+2020-10-27 17:16:21,101 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.12 seconds
+2020-10-27 17:16:21,101 - root - INFO - ###############################  End  ###############################
+2020-10-27 17:17:18,921 - root - INFO - ############################### START ###############################
+2020-10-27 17:17:22,063 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 3.14 seconds
+2020-10-27 17:17:24,181 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.12 seconds
+2020-10-27 17:17:28,307 - root - INFO - SUCCESS    Navigated to https://e.qq.com/, Spend 4.13 seconds
+2020-10-27 17:17:28,354 - root - INFO - SUCCESS    Clicked element: <id->mlogin>, Spend 0.05 seconds
+2020-10-27 17:17:38,384 - root - INFO - SUCCESS    Switch to frame element: <id->qqLoginFrame>, Spend 0.03 seconds
+2020-10-27 17:17:39,412 - root - INFO - SUCCESS    Switch to frame element: <id->ptlogin_iframe>, Spend 0.03 seconds
+2020-10-27 17:17:39,511 - root - INFO - SUCCESS    Clicked element: <id->img_out_3109501868>, Spend 0.10 seconds
+2020-10-27 17:17:46,549 - root - INFO - SUCCESS    From js: <window.open('https://ad.qq.com/atlas/18034304/report/analytic?')> open a new window and swich into, Spend 2.04 seconds
+2020-10-27 17:17:48,692 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="content"]/div/div/div/div[2]/div[1]/div/div[1]/div[4]/div/div/div/button[2]>, Spend 2.14 seconds
+2020-10-27 17:17:49,725 - root - INFO - SUCCESS    Get element text element: <xpath->//*[@id="table-id"]/div[2]/div/table/tfoot/tr/td[2]/div>, Spend 1.03 seconds,text:<>
+2020-10-27 17:18:01,902 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.11 seconds
+2020-10-27 17:18:01,903 - root - INFO - ###############################  End  ###############################
